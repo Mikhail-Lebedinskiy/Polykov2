@@ -2,12 +2,21 @@ start 22:10
 finish
 
 Часть с прогой
-2)  start 22:10 finish 22:15
-5)  start 22:16 finish 22:21 (не совсем понятно условие)
-8)  start 22:22 finish 22:25
-p)  start 22:26 finish 22:36
-14) start 22:36 finish 22:43
-16  start 22:44 finish 22:47
-p)  start 22:47 finish 22:
+2)          start 22:10 finish 22:15
+5)          start 22:16 finish 22:21 (не совсем понятно условие)
+8)          start 22:22 finish 22:25
+p)          start 22:26 finish 22:36
+14)         start 22:36 finish 22:43
+16          start 22:44 finish 22:47
+p)          start 22:47 finish 22:51
+17)         start 22:54 finish 23:01
+19_20_21)   start 23:02 finish 23:09
+22)         start 23:20 finish 23:43 (надо заботать этот номер)
+23)         start 00:04 finish 00:10
+24)         start 00:17 finish 00:27
+25)         start 00:27 finish 00:39
+26)         start 00:39 finish 00:59
+27          start 01:00 finish 01:21 (надо написать быстрое решение)
+ 5 + 5 + 3 + 7 + 3 + 7 + 7 + 23 + 6 + 10 + 12 + 20 + 21 = 129 = 02:09
 
 
