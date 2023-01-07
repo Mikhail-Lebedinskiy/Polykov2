@@ -1,2 +1,2 @@
-for i in range(1, 28):
-    print(f'{i})')
+n = - 904
+print(n // 10)
